@@ -1,4 +1,4 @@
-# SpotRoom Project Setup Guide
+# SpotRoom 
 
 Welcome to the SpotRoom project! We're excited to have you contribute. This guide will help you set up your development environment and get started with the project.
 
